@@ -1,3 +1,5 @@
 ### Hi there 👋
 
-![info](https://github-readme-stats.vercel.app/api?username=lavalike&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+<P align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=lavalike&count_private=true" />
+</p>
